@@ -10,8 +10,6 @@ This program generates patterns in four levels of hierarchy.
 
 A single square pattern, serving as the smallest building block.
 
-![Element](images/element.png)
-
 ### 2. Sub Container
 
 A grid arrangement of multiple Element patterns.
